@@ -1,0 +1,3 @@
+spring:
+ datasources:
+  url: jdb
